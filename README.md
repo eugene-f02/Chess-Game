@@ -51,7 +51,7 @@
 - Download this project from my github
 - Go to *Setup/Debug*
 - Run *setup.exe* and follow the instructions
-- When the setup is finished, the game is accessible through the file *Chess* created on your desktop 
+- When the setup is finished, the game is accessible through the file called *Chess* created on your desktop 
 
 
 ## Additional Information
