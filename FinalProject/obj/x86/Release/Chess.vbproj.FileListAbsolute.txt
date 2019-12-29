@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\VB\FinalProject(Chess)\FinalProject\bin\Release\Chess.exe.manifest
+C:\Users\Admin\Desktop\VB\FinalProject(Chess)\FinalProject\bin\Release\Chess.application
+C:\Users\Admin\Desktop\VB\FinalProject(Chess)\FinalProject\bin\Release\Chess.exe
+C:\Users\Admin\Desktop\VB\FinalProject(Chess)\FinalProject\bin\Release\Chess.pdb
+C:\Users\Admin\Desktop\VB\FinalProject(Chess)\FinalProject\bin\Release\Chess.xml
+C:\Users\Admin\Desktop\VB\FinalProject(Chess)\FinalProject\obj\x86\Release\Chess.frmChess.resources
+C:\Users\Admin\Desktop\VB\FinalProject(Chess)\FinalProject\obj\x86\Release\Chess.frmLobby.resources
+C:\Users\Admin\Desktop\VB\FinalProject(Chess)\FinalProject\obj\x86\Release\Chess.Resources.resources
+C:\Users\Admin\Desktop\VB\FinalProject(Chess)\FinalProject\obj\x86\Release\Chess.vbproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\VB\FinalProject(Chess)\FinalProject\obj\x86\Release\Chess.exe.manifest
+C:\Users\Admin\Desktop\VB\FinalProject(Chess)\FinalProject\obj\x86\Release\Chess.application
+C:\Users\Admin\Desktop\VB\FinalProject(Chess)\FinalProject\obj\x86\Release\Chess.exe
+C:\Users\Admin\Desktop\VB\FinalProject(Chess)\FinalProject\obj\x86\Release\Chess.xml
+C:\Users\Admin\Desktop\VB\FinalProject(Chess)\FinalProject\obj\x86\Release\Chess.pdb
