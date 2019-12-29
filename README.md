@@ -49,13 +49,14 @@
 ## Installation
 
 - Download this project from my github
-- Run "Chess.lnk" (Supports Windows OS only)
-- Tip: You can place "Chess.lnk" somewhere for a more convenient access
+- Go to *Setup/Debug*
+- Run *setup.exe* and follow the instructions
+- When the setup is finished, the game is accessible through the file *Chess* created on your desktop 
 
 
 ## Additional Information
 
-- The source code is accessable through "Chess.sln" (Visual Studio is required with installed .NET framework)
+- The source code is located in *Form1.vb* and *Form2.vb* files and can be accessable through "Chess.sln", if you have Visual Studio and .NET framework installed on your computer
 
 ## Support
 
